@@ -1,0 +1,24 @@
+Zamar Consultancy Demo — Research / Image References
+
+Huawei official laptop range:
+https://consumer.huawei.com/uk/laptops/
+
+Fiji Ministry of Agriculture and Waterways:
+https://www.agriculture.gov.fj/
+
+Fiji Government agribusiness incubation:
+https://www.fiji.gov.fj/fiji-launches-first-ever-agribusiness-incubation-centre/
+
+Fiji Housing / infrastructure:
+https://www.housing.gov.fj/12-yeardevelopmentplan
+
+Fiji forestry context:
+https://www.fiji.gov.fj/hon-alitia-cirikiyasawa-bainivalu-minister-for-fisheries-and-forestries-promoting-reliable-global-timber-supply-chains-in-the-uncertain-world/
+
+Fiji Forest Policy:
+https://www.forestry.gov.fj/docs/policies/FijiForestPolicyStatement.pdf
+
+Fiji beche-de-mer:
+https://www.fiji.gov.fj/statement-by-the-honorable-minister-for-fisheries-on-the-extension-of-the-beche-de-mer-harvesting-period/
+
+The actual website also contains direct image URLs in index.html for the demo imagery.
